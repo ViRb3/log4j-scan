@@ -1,8 +1,13 @@
 <h1 align="center">log4j-scan</h1>
 <h4 align="center">A fully automated, accurate, and extensive scanner for finding vulnerable log4j hosts</h4>
 
-![](https://dkh9ehwkisc4.cloudfront.net/static/files/80e52a5b-7d72-44c2-8187-76a2a58f5657-demo.png)
+---
 
+> :information_source: **This is a simplified version of the original script. It only prints the payloads and waits for you to deliver them. Such an approach is useful for non-trivial delivery scenarios like Minecraft. After you are done, the script will tell you whether any of the callbacks were hit.**
+
+---
+
+![](https://dkh9ehwkisc4.cloudfront.net/static/files/80e52a5b-7d72-44c2-8187-76a2a58f5657-demo.png)
 
 # Features
 
